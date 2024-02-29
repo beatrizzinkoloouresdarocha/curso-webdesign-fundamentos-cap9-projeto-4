@@ -5,3 +5,8 @@
 HTML{
    font-size: 400  62.5% 'Inter',sans-serif;
 }
+
+p,
+a{
+    font-size: 1.6rem;
+}
