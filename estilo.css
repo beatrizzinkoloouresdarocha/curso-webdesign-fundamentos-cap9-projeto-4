@@ -1,3 +1,7 @@
-body{
-    font-family: 'Inter' sans-serif;
+:root{
+    --primary-color:#FED001;
+}
+
+HTML{
+   font-size: 400  62.5% 'Inter',sans-serif;
 }
